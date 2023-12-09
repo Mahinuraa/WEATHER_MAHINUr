@@ -1,0 +1,30 @@
+.box {
+  padding: 60px;
+  width: 350px;
+  height: 300px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(18px);
+  margin-left: 350px;
+  margin-top: 50px;
+}
+.conteiner {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+body {
+  background: url(https://klike.net/uploads/posts/2022-09/1662962569_a.jpg);
+  background: linear-gradient(90deg, rgb(0, 160, 252) 1%);
+}
+.box input {
+  border: 4px solid rgb(0, 183, 255);
+  border-radius: 10px;
+}
+.box button {
+  border: 4px solid rgb(0, 183, 255);
+  border-radius: 10px;
+  margin-left: 70px;
+  color: rgb(10, 133, 167);
+}
